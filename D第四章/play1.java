@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class play1{
     public static void main(String[] args) {
     Random a = new Random();
-    int b = a.nextInt(1);  //随机生成一个0-100的数字
+    int b = a.nextInt(101);  //随机生成一个0-100的数字
 
     System.out.println("这是一个猜数字小游戏");
     System.out.println("数字的取值范围在 0-100 之间");
