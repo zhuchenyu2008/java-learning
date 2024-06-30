@@ -6,6 +6,5 @@ public class test1 {
         System.out.println("年龄:" + age);
         System.out.println("身高:" + high + "cm");
         System.out.println("体重:" + weight + "kg");
-
     }
-}
+} 
