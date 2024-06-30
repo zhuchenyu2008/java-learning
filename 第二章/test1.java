@@ -1,4 +1,4 @@
-public class test {
+public class test1 {
     public static void main(String[] args) {
         String name = "朱辰宇" , xingbie = "男" , age = "16" , high = "180" , weight = "50";
         System.out.println("姓名:" + name);
