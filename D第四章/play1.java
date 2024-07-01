@@ -15,11 +15,11 @@ public class play1{
 
     if (c>b) {
         System.out.println("大了");
-    if (c<b) {
+    }
+    else if (c<b) {
         System.out.println("小了");
-            
         }
-    } else {
+    else {
         System.out.println("恭喜你猜对了");
     }
 
