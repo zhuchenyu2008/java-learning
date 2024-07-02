@@ -7,9 +7,9 @@ public class test3{
             c = c + a;//将每次a的值都给予c
             
 
-        }
+        } 
     
-    System.out.println(c); //输出
+    System.out.println("1-100内偶数的和为:" + c); //输出
 
 
     }
