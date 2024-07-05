@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class play1beta{
+public class play1_level2{
     public static void main(String[] args) {
         Random a = new Random();
         int b = a.nextInt(101);  //随机生成一个0-100的数字b
